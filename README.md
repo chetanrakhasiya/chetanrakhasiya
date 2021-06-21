@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetanrakhasiya
-- 👀 I’m interested in android development and digital marketing
+- 👀 I’m interested in Data Science, A.I. and Digital Marketing
 - 🌱 I’m currently learning Responsive Web Design from freecodecamp.org
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... at my instagram @chetanr18
