@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chetanrakhasiya
 - 👀 I’m interested in Data Science, A.I. and Digital Marketing
-- 🌱 I’m currently learning Responsive Web Design from freecodecamp.org
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... at my instagram @chetanr18
+- 🌱 I’m currently learning Python and Statistics
+- 💞️ I’m looking to collaborate on Data Analysis Projects as well as Deep Learning
 
 <!---
 chetanrakhasiya/chetanrakhasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
